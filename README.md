@@ -25,9 +25,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
 
-### 🧠 Languages & Technologies I Use
+#### 🧠 Languages & Technologies I Use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,13 +36,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-#### ⚙️ Frameworks
+##### ⚙️ Frameworks
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
-### 📚 Libraries
+#### 📚 Libraries
 
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d71f00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-%230072C6.svg?style=for-the-badge&logo=axios&logoColor=white)
@@ -52,7 +51,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-### 🔧 Tools
+#### 🔧 Tools
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -64,13 +63,6 @@
 
 
 ## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=LazaroAntonino&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
-</div>
  
  ### 💳 Github Profile Summary Card
  
